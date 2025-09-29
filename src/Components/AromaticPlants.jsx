@@ -14,7 +14,7 @@ const AromaticPlants = () => {
     {
       id: 7,
       name: "Jasmine",
-      imgpath: "public/images/jasmine.jpg",
+      imgpath: "/Paradise-Nursery-Shopping/images/jasmine.jpg",
       cost: 18,
       quantity: 1,
 
@@ -23,7 +23,7 @@ const AromaticPlants = () => {
     {
       id: 8,
       name: "Lavender",
-      imgpath: "public/images/lavender.webp",
+      imgpath: "/Paradise-Nursery-Shopping/images/lavender.webp",
       cost: 20,
       quantity: 1,
 
@@ -32,7 +32,7 @@ const AromaticPlants = () => {
     {
       id: 9,
       name: "Lemon Balm",
-      imgpath: "public/images/lemon.jfif",
+      imgpath: "/Paradise-Nursery-Shopping/images/lemon.jfif",
       cost: 14,
       quantity: 1,
 
@@ -41,7 +41,7 @@ const AromaticPlants = () => {
     {
       id: 10,
       name: "Mint",
-      imgpath: "public/images/Mint_Leaves.webp",
+      imgpath: "/Paradise-Nursery-Shopping/images/Mint_Leaves.webp",
       cost: 12,
       quantity: 1,
 
@@ -50,7 +50,7 @@ const AromaticPlants = () => {
     {
       id: 11,
       name: "Rosemary",
-      imgpath: "public/images/Rosemary.webp",
+      imgpath: "/Paradise-Nursery-Shopping/images/Rosemary.webp",
       cost: 15,
       quantity: 1,
 
@@ -59,7 +59,7 @@ const AromaticPlants = () => {
     {
       id: 12,
       name: "Sage",
-      imgpath: "public/images/sage.webp",
+      imgpath: "/Paradise-Nursery-Shopping/images/sage.webp",
       cost: 18,
       quantity: 1,
 

@@ -22,7 +22,7 @@ const AirPurfyingProducts = () => {
     {
       id: 1,
       name: "Snake Plant",
-      imgpath: "public/images/snake.webp",
+      imgpath: "/Paradise-Nursery-Shopping/images/snake.webp",
       cost: 15,
       quantity: 1,
       desc: "Snake plant has tall, upright, sword-shaped leaves with striking green patterns",
@@ -30,7 +30,7 @@ const AirPurfyingProducts = () => {
     {
       id: 2,
       name: "Spider Plant",
-      imgpath: "public/images/spider.webp",
+      imgpath: "/Paradise-Nursery-Shopping/images/spider.webp",
       cost: 12,
       quantity: 1,
       desc: "Spider plant is a popular houseplant with long, arching leaves and baby plantlets",
@@ -38,7 +38,7 @@ const AirPurfyingProducts = () => {
     {
       id: 3,
       name: "Aloe Vera",
-      imgpath: "public/images/Aloe.jpg",
+      imgpath: "/Paradise-Nursery-Shopping/images/Aloe.jpg",
       cost: 10,
       quantity: 1,
       desc: "Aloe vera is a hardy succulent known for its thick, fleshy leaves filled with soothing",
@@ -46,7 +46,7 @@ const AirPurfyingProducts = () => {
     {
       id: 4,
       name: "ZZ Plant",
-      imgpath: "public/images/zz.webp",
+      imgpath: "/Paradise-Nursery-Shopping/images/zz.webp",
       cost: 13,
       quantity: 1,
       desc: "ZZ plant has glossy, dark green leaves and is nearly indestructible",
@@ -54,7 +54,7 @@ const AirPurfyingProducts = () => {
     {
       id: 5,
       name: "Jade Plant",
-      imgpath: "public/images/jade.webp",
+      imgpath: "/Paradise-Nursery-Shopping/images/jade.webp",
       cost: 17,
       quantity: 1,
       desc: "Jade plant is a charming succulent with small, rounded, glossy leaves",
@@ -62,7 +62,7 @@ const AirPurfyingProducts = () => {
     {
       id: 6,
       name: "Cactus Plant",
-      imgpath: "public/images/cactus.webp",
+      imgpath: "/Paradise-Nursery-Shopping/images/cactus.webp",
       cost: 18,
       quantity: 1,
       desc: "Cacti are drought-tolerant plants with unique shapes and spines",
