@@ -22,7 +22,7 @@ const ProductSelection = () => {
         <header>
           <div className="logo">
             <img
-              src="public/images/logo.png"
+              src="/Paradise-Nursery-Shopping/images/logo.png"
               alt="Logo"
               width={"50px"}
               height={"50px"}
