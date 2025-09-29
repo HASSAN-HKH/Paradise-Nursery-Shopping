@@ -1,0 +1,49 @@
+.sectionCart {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+}
+
+.cartItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.image {
+  flex-basis: 50%;
+}
+
+.image img {
+  width: 100%;
+}
+
+.info {
+  flex-basis: 45%;
+}
+
+.info > * {
+  margin: 10px 0;
+}
+
+.info > button {
+  padding: 5px 10px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: white;
+  background-color: #de1a1ade;
+  border-radius: 5px;
+}
+
+.controls button {
+  width: 30%;
+  border: 1px solid #ddd;
+  outline: none;
+  cursor: pointer;
+}
+
+.info span {
+  margin: 0 10px;
+}

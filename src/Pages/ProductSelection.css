@@ -1,0 +1,121 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #3fa73f;
+  color: white;
+  align-items: center;
+}
+
+header h3 {
+  flex-basis: 20%;
+  font-size: 20px;
+}
+
+.icon-cart {
+  position: relative;
+}
+
+.icon-cart span {
+  position: absolute;
+  color: black;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -80%);
+  font-weight: bold;
+}
+
+.logo {
+  display: flex;
+  flex-basis: 300px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo img {
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.intro {
+  text-align: center;
+}
+
+.plants {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.plants img {
+  width: 300px;
+  height: 300px;
+}
+
+.plants .plant {
+  flex-basis: 300px;
+  margin: 10px;
+  text-align: center;
+}
+
+.container-products {
+  padding: 20px;
+}
+
+#air h4 {
+  border-top: 1px solid #3fa73f;
+  border-bottom: 1px solid #3fa73f;
+  width: fit-content;
+  margin: 16px auto;
+  font-size: 22px;
+  padding: 5px 0;
+}
+
+section {
+  padding: 20px 0;
+}
+
+.plant p:last-of-type {
+  margin: 10px 0;
+}
+
+h5 {
+  margin: 16px 0;
+  font-size: 16px;
+}
+
+.plant button {
+  padding: 10px 20px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  background-color: #3fa73f;
+}
+
+.container-cart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container-cart h3 {
+  padding: 20px 0;
+}
+
+.container-cart > button {
+  margin: 10px 0;
+  width: 135px;
+  padding: 8px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: white;
+  background-color: #3fa73f;
+}
+
+:disabled {
+  color: azure !important;
+  background-color: #696969 !important;
+  cursor: auto !important;
+}
